@@ -2,9 +2,9 @@
 
 namespace DiscordBotCore
 {
-    internal class Program
+    class Program
     {
-        private static void Main()
+        static void Main()
         {
             Console.WriteLine("Hello World!");
         }
