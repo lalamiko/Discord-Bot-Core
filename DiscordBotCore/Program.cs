@@ -6,7 +6,7 @@ namespace DiscordBotCore
     {
         private static void Main()
         {
-            Console.WriteLine("Hello, Discord!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
